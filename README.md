@@ -1,2 +1,2 @@
 # HamHeat
-Hamming distance calculation from multilocus sequence data for heatmap visualization
+Hamming distance calculation from multiple allelic sequence data for heatmap visualization
