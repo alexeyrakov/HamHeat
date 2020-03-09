@@ -48,7 +48,7 @@ ATGC  seq3  0
 
 ## Validation
 
-The script was applied to the real *Salmonella* allelic data in our recently published paper [Rakov et al., 2019](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5809-8). [Figure S1 (additional file 5)](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-019-5809-8/MediaObjects/12864_2019_5809_MOESM5_ESM.ppt) from the paper shows the heatmap for 70 virulence factors alleles for 500 Salmonella genomes. The input file for the matrix were combined results from HamHeat software for each of the 70 alleles.
+The script was applied to the real *Salmonella* allelic data in our recently published paper [Rakov et al., 2019](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5809-8). [Figure S1 (additional file 5)](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-019-5809-8/MediaObjects/12864_2019_5809_MOESM5_ESM.ppt) from the paper shows the heatmap for 70 virulence factors alleles for 500 *Salmonella* genomes. The input file for the matrix were combined results from **HamHeat** software for each of the 70 alleles.
 
 ## F.A.Q.
 
