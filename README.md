@@ -56,7 +56,7 @@ AGTC  seq4  2
 
 ## Validation
 
-The script was applied to the real *Salmonella* allelic data of our recently published paper [Rakov et al., 2019](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5809-8). [Figure S1 (additional file 5)](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-019-5809-8/MediaObjects/12864_2019_5809_MOESM5_ESM.ppt) from this publication shows the heatmap for 70 virulence factors alleles for 500 *Salmonella* genomes. For this figure, the **HamHeat** results for each of the 70 alleles were combined in one file to be used as the input file for the Morpheus matrix visualization software.
+The script was applied to the real *Salmonella* allelic data of our recently published paper [Rakov et al., 2019](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5809-8). [Figure S1 (additional file 5)](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-019-5809-8/MediaObjects/12864_2019_5809_MOESM5_ESM.ppt) from this publication shows the heatmap for 70 virulence factors alleles for 500 *Salmonella* genomes. For this figure, the **HamHeat** results for each of the 70 alleles were combined in one file to be used as the input file for the [Morpheus matrix visualization software](https://software.broadinstitute.org/morpheus/).
 
 ## F.A.Q.
 
