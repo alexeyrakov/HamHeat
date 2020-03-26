@@ -28,6 +28,7 @@ TAB-delimited text file format with two columns: the first column for the sequen
 
 *Example:*
 
+```
 seq1  ATGC
 
 seq2  CGTA
@@ -35,6 +36,7 @@ seq2  CGTA
 seq3  ATGC
 
 seq4  AGTC
+```
 
 ## Output
 
@@ -42,6 +44,7 @@ TAB-delimited text file with three columns: the aligned sequences, the name of s
 
 *Example:*
 
+```
 ATGC  seq1  0
 
 CGTA  seq2  4
@@ -49,6 +52,7 @@ CGTA  seq2  4
 ATGC  seq3  0
 
 AGTC  seq4  2
+```
 
 ## Validation
 
