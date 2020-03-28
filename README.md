@@ -4,7 +4,7 @@
 
 ##### Authors: Alexey V. Rakov (<rakovalexey@gmail.com>) & Emilio Mastriani (<emiliomastriani@hrbmu.edu.cn>) 
 
-#### How to cite this work in a publication: Rakov A.V., Schifferli D.M., Liu S.-L., Mastriani E. HamHeat: A fast and simple package for calculating Hamming distance from multiple sequence data for heatmap visualization. *bioRxiv, 2020* (in press).
+#### How to cite this work in a publication: Alexey V. Rakov, Dieter M. Schifferli, Shu-Lin Liu, Emilio Mastriani. HamHeat: A fast and simple package for calculating Hamming distance from multiple sequence data for heatmap visualization. *bioRxiv 2020.03.26.009258;* doi: https://doi.org/10.1101/2020.03.26.009258.
 
 The problem of fast calculation of Hamming distance inferred from many sequence datasets is still not a trivial task.
 
@@ -62,7 +62,7 @@ The script was applied to the real *Salmonella* allelic data of our recently pub
 
 1. How to cite?
 
-Rakov A.V., Schifferli D.M., Liu S.-L., Mastriani E. HamHeat: A fast and simple package for calculating Hamming distance from multiple sequence data for heatmap visualization. *bioRxiv, 2020* (in press)
+Alexey V. Rakov, Dieter M. Schifferli, Shu-Lin Liu, Emilio Mastriani. HamHeat: A fast and simple package for calculating Hamming distance from multiple sequence data for heatmap visualization. *bioRxiv 2020.03.26.009258;* doi: https://doi.org/10.1101/2020.03.26.009258
 
 2. How to use?
 
@@ -74,4 +74,4 @@ Feel free to contact authors if you need help.
 
 ## Reference
 
-Rakov A.V., Schifferli D.M., Liu S.-L., Mastriani E. HamHeat: A fast and simple package for calculating Hamming distance from multiple sequence data for heatmap visualization. *bioRxiv, 2020* (in press)
+Alexey V. Rakov, Dieter M. Schifferli, Shu-Lin Liu, Emilio Mastriani. HamHeat: A fast and simple package for calculating Hamming distance from multiple sequence data for heatmap visualization. *bioRxiv 2020.03.26.009258;* doi: https://doi.org/10.1101/2020.03.26.009258
